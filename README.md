@@ -5,8 +5,11 @@ These are resources to libraries that are relating to the advertising technology
 Feel free to do a pull request to add a library that you know of.
 
 # IAB standards
+
 ## HTML5 recommendations
+
 * [iab HTML5 guidelines](http://www.iab.com/guidelines/html5-for-digital-advertising-1-0-guidance-for-ad-designers-creative-technologists/) [Google Doc](https://docs.google.com/document/d/1pesMB5eec_kVEczQ5DOY12ZPdpEn4Fhe8fh_Ray96BY/edit)
+
 ## VAST
 
 * [What's a VAST?](http://www.iab.com/news/whats-vast-understanding-iab-digital-video-suite/)
