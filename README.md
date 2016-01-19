@@ -23,6 +23,11 @@ Feel free to do a pull request to add a library that you know of.
 
 # Players
 
+## Flowplayer
+
+* [Pricing](https://flowplayer.org/pricing/player.html)
+* [VPAID support](https://github.com/mantisadnetwork/flowplayer-vpaid)
+
 ## Video.js
 
 ### Ad plugins
