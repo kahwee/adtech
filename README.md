@@ -9,7 +9,11 @@ Feel free to do a pull request to add a library that you know of.
 * [IAB Standards](#iab-standards)
   * [HTML5 recommendations](#html5-recommendations)
   * [VAST](#vast)
-  * [VAST 4.0](#vast-4-0)
+    * [VAST 4.0](#vast-40)
+  * [VPAID](#vpaid)
+  * [Players](#players)
+    * [Flowplayer](#flowplayer)
+    * [Video.js](#videojs)
 
 # IAB standards
 
