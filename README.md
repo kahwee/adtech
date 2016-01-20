@@ -11,9 +11,9 @@ Feel free to do a pull request to add a library that you know of.
   * [VAST](#vast)
     * [VAST 4.0](#vast-40)
   * [VPAID](#vpaid)
-  * [Players](#players)
-    * [Flowplayer](#flowplayer)
-    * [Video.js](#videojs)
+* [Players](#players)
+  * [Flowplayer](#flowplayer)
+  * [Video.js](#videojs)
 
 # IAB standards
 
