@@ -4,6 +4,13 @@ These are resources to libraries that are relating to the advertising technology
 
 Feel free to do a pull request to add a library that you know of.
 
+# Contents
+
+* [IAB Standards](#iab-standards)
+  * [HTML5 recommendations](#html5-recommendations)
+  * [VAST](#vast)
+  * [VAST 4.0](#vast-4-0)
+
 # IAB standards
 
 ## HTML5 recommendations
@@ -12,7 +19,9 @@ Feel free to do a pull request to add a library that you know of.
 
 ## VAST
 
-### New in VAST 4.0
+### VAST 4.0
+
+VAST 4.0 is in draft. What's new:
 
 * A new element to separate the video file for linear ads from files that use an API framework for interaction along with guidance on how to serve linear media files with VAST
 * A new viewable impression tracking element to support publishers’ ability to track viewability and better manage campaign delivery
