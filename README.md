@@ -12,6 +12,13 @@ Feel free to do a pull request to add a library that you know of.
 
 ## VAST
 
+### New in VAST 4.0
+
+* A new element to separate the video file for linear ads from files that use an API framework for interaction along with guidance on how to serve linear media files with VAST
+* A new viewable impression tracking element to support publishers’ ability to track viewability and better manage campaign delivery
+
+Currently in [draft published in IAB's website](http://www.iab.com/guidelines/digital-video-ad-serving-template-vast-4-0/).
+
 * [What's a VAST?](http://www.iab.com/news/whats-vast-understanding-iab-digital-video-suite/)
 * [Daily Motion vast-client](https://github.com/dailymotion/vast-client-js)
 
