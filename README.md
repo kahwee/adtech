@@ -44,6 +44,16 @@ Currently in [draft published in IAB's website](http://www.iab.com/guidelines/di
 
 # Players
 
+## Brightcove player
+
+Brightcove does not have a demo page.
+
+## JW Player
+
+JW Player allows customization of player's look and feel. It also supports VAST and VPAID in JavaScript.
+
+* [Demo](https://developer.jwplayer.com/tools/ad-tester/)
+
 ## Flowplayer
 
 * [Pricing](https://flowplayer.org/pricing/player.html)
