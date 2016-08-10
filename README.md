@@ -38,8 +38,12 @@ Currently in [draft published in IAB's website](http://www.iab.com/guidelines/di
 
 ## VPAID
 
+VPAID is the standard to play interactive advertisements. There are more JavaScript implementation today.
+
 * [VPAID ad inspector](https://github.com/kahwee/vpaid-ad-inspector)
 * [Ryan Thompson's examples](https://github.com/ryanthompson591/vpaidExamples/)
+* [Adobe Animate CC bridge](https://github.com/kahwee/animate-vpaid-bridge)
+  * Use this [VAST tag](https://s3.amazonaws.com/animate-vpaid-bridge/sample-1.xml) to test on JW Player or something.
 * [VPAID ad base](https://github.com/kahwee/vpaid-ad)
 
 # Players
