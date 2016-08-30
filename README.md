@@ -48,6 +48,20 @@ VPAID is the standard to play interactive advertisements. There are more JavaScr
 
 # Players
 
+## Varrando
+
+Smallest HTML5 video player, single file no dependencies: <50kb.
+
+Complete, performant, error-free VAST 3.0/VPAID 2.0/VMAP JS implementations. Google IMA support as well.
+
+Ad fill and revenue maximization algorithms included. Given us a list of video ad sources. It calls every ad network in parallel and optimizes revenue based on CPM.
+
+New ad scheduling algorithm: schedule ad breaks across a user session (eg. every X minutes or every X videos).
+
+* [Player Demo](https://varrando.com/demo/)
+* [Video Demo of the platform](https://www.youtube.com/watch?v=8jhRMaClUjI)
+
+
 ## Brightcove player
 
 Brightcove does not have a demo page.
